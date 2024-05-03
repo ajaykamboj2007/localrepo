@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 monday tuesday webnesday
-=======
-monday tuesday thursday
->>>>>>> feature3
